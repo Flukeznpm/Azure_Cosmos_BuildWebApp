@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/flukee/.dotnet/store/|arch|/|tfm|",
+      "/Users/flukee/.nuget/packages"
+    ]
+  }
+}
